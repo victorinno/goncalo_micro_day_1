@@ -1,0 +1,12 @@
+1625852164781:help
+1625852182549:person_create
+1625853883256:help
+1625853888130:person_create
+1625854243041:person_create --name Gonçalo --nif7238123
+1625854285285:create_person --name Gonçalo --nif 2934872394874
+1625854291952:stacktrace
+1625854308430:person_create --name Gonçalo --nif 74928374
+1625854441582:person_create --name Floriano --nif 749435345
+1625854705112:find_all_persons
+1625854912990:person_create --name Gonçalo -- nif 323213
+1625854924379:person_create --name Gonçalo --nif 323213
